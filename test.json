@@ -1,1 +1,11 @@
-test
+{
+  "SKU": "12345678901",
+  "description": "MultiSync X123BT - 109.22 cm (43 \") , 1920 x 480, 16:4, 500 cd\/m\u00b2, 3000:1, 8 ms",
+  "name": "CBA MultiSync X123BT",
+  "extendedData": {
+    "title": "CBA MultiSync X123BT",
+    "type": "Link",
+    "uri": "Awesome-HIC-Site\/-\/products\/12345678901",
+    "description": "MultiSync X123BT - 109.22 cm (43 \") , 1920 x 480, 16:4, 500 cd\/m\u00b2, 3000:1, 8 ms"
+  }
+}
