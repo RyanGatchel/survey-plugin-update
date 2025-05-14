@@ -1,11 +1,18 @@
 {
-  "SKU": "12345678901",
-  "description": "MultiSync X123BT - 109.22 cm (43 \") , 1920 x 480, 16:4, 500 cd\/m\u00b2, 3000:1, 8 ms",
-  "name": "CBA MultiSync X123BT",
-  "extendedData": {
-    "title": "CBA MultiSync X123BT",
-    "type": "Link",
-    "uri": "Awesome-HIC-Site\/-\/products\/12345678901",
-    "description": "MultiSync X123BT - 109.22 cm (43 \") , 1920 x 480, 16:4, 500 cd\/m\u00b2, 3000:1, 8 ms"
+  "version": "v1.0.1",
+  "download_url": "https://ryangatchel.github.io/survey-plugin-update/asu-survey-plugin.zip",
+  "tested": "6.5",
+  "requires": "5.0",
+  "last_updated": "2025-05-14",
+  "author": "Ryan Gatchel",
+  "author_profile": "https://ryangatchel.io",
+  "sections": {
+    "description": "A chatbot-style survey plugin with ASU styling, admin-managed questions, DB storage, and CSV export.",
+    "installation": "Upload the ZIP file and activate the plugin from the WordPress admin dashboard.",
+    "changelog": "https://github.com/ryangatchel/survey-plugin/blob/main/CHANGELOG.md"
+  },
+  "banners": {
+    "low": "https://ryangatchel.github.io/survey-plugin-update/banner-772x250.png",
+    "high": "https://ryangatchel.github.io/survey-plugin-update/banner-1544x500.png"
   }
 }
