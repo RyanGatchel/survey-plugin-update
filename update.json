@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "download_url": "https://ryangatchel.github.io/survey-plugin-update/survey-plugin.zip",
   "tested": "6.8.1",
   "requires": "5.0",
-  "last_updated": "2025-05-15",
+  "last_updated": "2025-05-16",
   "author": "Ryan Gatchel",
   "author_profile": "https://ryangatchel.io",
   "sections": {
