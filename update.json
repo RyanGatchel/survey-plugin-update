@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "download_url": "https://ryangatchel.github.io/survey-plugin-update/survey-plugin.zip",
   "tested": "6.8.1",
   "requires": "5.0",
@@ -9,7 +9,7 @@
   "sections": {
     "description": "A chatbot-style survey plugin with ASU styling, admin-managed questions, DB storage, and CSV export.",
     "installation": "Upload the ZIP file and activate the plugin from the WordPress admin dashboard.",
-    "changelog": "<ul>\n<li> added dropdown option</li>\n</ul>\n"
+    "changelog": "<ul>\n<li> adding ability to have multiple survey versions per page</li>\n<li> added style for survey dropdown</li>\n</ul>\n"
   },
   "banners": {
     "low": "https://ryangatchel.github.io/survey-plugin-update/banner-772x250.png",
