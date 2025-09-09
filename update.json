@@ -1,15 +1,15 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.22",
   "download_url": "https://ryangatchel.github.io/survey-plugin-update/survey-plugin.zip",
   "tested": "6.8.1",
   "requires": "5.0",
-  "last_updated": "2025-09-04",
+  "last_updated": "2025-09-09",
   "author": "Ryan Gatchel",
   "author_profile": "https://ryangatchel.io",
   "sections": {
     "description": "A chatbot-style survey plugin with ASU styling, admin-managed questions, DB storage, and CSV export.",
     "installation": "Upload the ZIP file and activate the plugin from the WordPress admin dashboard.",
-    "changelog": "<ul>\n<li> added ability to create custom surveys for different pages via shortcodes</li>\n</ul>\n"
+    "changelog": "<ul>\n<li> added yes/no option</li>\n<li> updated urls referrencing this project</li>\n<li> added better structure for dev and prod</li>\n</ul>\n"
   },
   "banners": {
     "low": "https://ryangatchel.github.io/survey-plugin-update/banner-772x250.png",
